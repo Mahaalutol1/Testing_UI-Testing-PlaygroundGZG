@@ -18,10 +18,9 @@ This test suite covers 12 different pages from the UI Testing Playground:
 10. **Scrollbars** - Testing elements that require scrolling
 11. **Dynamic Table** - Extracting and verifying data from dynamic tables
 12. **Verify Text** - Finding text with whitespace
-
-   ```bash
    npm run cypress:run
    ```
+
 
 
 
