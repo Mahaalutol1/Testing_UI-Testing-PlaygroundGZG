@@ -1,6 +1,6 @@
 # UI Testing Playground - Cypress Tests
 
-This project contains beginner-friendly Cypress tests for the [UI Testing Playground](https://uitestingplayground.com/) website.
+This project contains beginner friendly Cypress tests for the [UI Testing Playground](https://uitestingplayground.com/) website.
 
 ## Test Coverage
 
@@ -19,21 +19,9 @@ This test suite covers 12 different pages from the UI Testing Playground:
 11. **Dynamic Table** - Extracting and verifying data from dynamic tables
 12. **Verify Text** - Finding text with whitespace
 
-### Installation
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Open Cypress Test Runner:
-   ```bash
-   npm run cypress:open
-   ```
-
-   Or run tests in headless mode:
    ```bash
    npm run cypress:run
    ```
+
 
 
