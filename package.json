@@ -1,0 +1,21 @@
+{
+  "name": "uitestingplayground-cypress",
+  "version": "1.0.0",
+  "description": "Cypress tests for UI Testing Playground website",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
+
